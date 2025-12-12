@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>천사 카드</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>천사 카드</h1>
+    
+    <div class="card-container">
+        <div class="card" data-index="1"><div class="card-inner"><div class="card-face card-front"></div><div class="card-face card-back"></div></div></div>
+        <div class="card" data-index="2"><div class="card-inner"><div class="card-face card-front"></div><div class="card-face card-back"></div></div></div>
+        <div class="card" data-index="3"><div class="card-inner"><div class="card-face card-front"></div><div class="card-face card-back"></div></div></div>
+        <div class="card" data-index="4"><div class="card-inner"><div class="card-face card-front"></div><div class="card-face card-back"></div></div></div>
+        <div class="card" data-index="5"><div class="card-inner"><div class="card-face card-front"></div><div class="card-face card-back"></div></div></div>
+        <div class="card" data-index="6"><div class="card-inner"><div class="card-face card-front"></div><div class="card-face card-back"></div></div></div>
+        <div class="card" data-index="7"><div class="card-inner"><div class="card-face card-front"></div><div class="card-face card-back"></div></div></div>
+        <div class="card" data-index="8"><div class="card-inner"><div class="card-face card-front"></div><div class="card-face card-back"></div></div></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
